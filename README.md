@@ -1,9 +1,9 @@
-#TOERH - API
+#TOERH
 
-Dokumentationen finns tillgänglig på `/docs`
+## API
 
-Adminpanelen finns på /admin
+apiet finns live på <http://toerh.matthis.se>
 
-Logga in med:
-__Email:__ admin@admin.com
-__lösenord:__ password
+## Angular
+
+angularappen finns live på <http://angular.matthis.se>
